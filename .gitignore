@@ -1,1 +1,12 @@
-# just a test
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / configuration files
+.env
+.venv
+
+# OS files
+.DS_Store
+Thumbs.db
